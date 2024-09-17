@@ -1,0 +1,5 @@
+#adcione o diretório Scripts ao .gitignore
+Scripts/
+Lib/
+sequence.txt
+pyvenv.cfg
