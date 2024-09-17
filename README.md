@@ -31,17 +31,10 @@ O objetivo deste chatbot é responder a perguntas básicas sobre criptomoedas ut
 4. Execute o chatbot:
 
     ```sh
-    python chatbot.py
+    python main.py
     ```
 
 ## Exemplo de Uso
 
 Digite uma pergunta sobre criptomoedas e o chatbot tentará responder com base no conhecimento disponível no córpus.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
